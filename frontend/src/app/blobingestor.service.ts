@@ -9,7 +9,7 @@ import { Set } from './set';
 })
 export class BlobingestorService {
 
-  private url: string = "https://exercisevisualize.blob.core.windows.net/strong-data/strong.csv?sp=r&st=2022-10-02T21:30:53Z&se=2023-10-03T05:30:53Z&spr=https&sv=2021-06-08&sr=c&sig=vqNS0z5lOasJFQiUiZWzIfEaZGkzR5kWYqK4CVRBMQw%3D";
+  private url: string = "https://exercisevisualize.blob.core.windows.net/strong-data/strong.csv?sp=r&st=2024-02-06T00:48:30Z&se=2026-02-06T08:48:30Z&sv=2022-11-02&sr=b&sig=XXkJrlWt7kQqf6O6GBdKJDFK%2BtIWH7N9HvJRg0oQ5OI%3D";
 
   constructor(private http: HttpClient) { }
 
